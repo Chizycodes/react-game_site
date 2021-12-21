@@ -28,7 +28,7 @@ const GlobalStyles = createGlobalStyle`
         color: #333;
     }
     h3 {
-        font-size: 1.3rem;
+        font-size: 1rem;
         color: #333;
         padding: 1.5rem 0;
     }
@@ -40,6 +40,10 @@ const GlobalStyles = createGlobalStyle`
     a {
         text-decoration: none;
         color: #333;
+    }
+
+    img {
+        display: block;
     }
 
 `;
